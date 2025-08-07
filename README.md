@@ -1,6 +1,9 @@
 # Classbench-for-ubuntu-24.04
 Available Classbench for ubuntu-24.04 LTS
 
+#requirements
+make; git; build-essential; 
+
 #1.MAKE
 
 cd classbench/classbench-ng/vendor
